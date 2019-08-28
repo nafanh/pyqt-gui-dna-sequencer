@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 
 
@@ -422,3 +423,22 @@ def table(df):
 a = '27mer,28mer'
 b = a.split(',')
 print(b)
+=======
+import pandas as pd
+import numpy as np
+
+a = {'a':[1,2,3], 'b' : [18,2,121]}
+
+df = pd.DataFrame(a)
+print(df)
+
+print()
+
+a = df['b'].tolist()
+a.sort()
+df_a = pd.DataFrame(a,columns=['Diff'])
+#a.sort_values(by=['b'])
+
+print(a)
+print(df_a)
+>>>>>>> 14dd7a7d363abd73c3382bddcb4bbae63a207333
