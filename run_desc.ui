@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <class>MainWindow2</class>
@@ -232,7 +232,6 @@
  <resources/>
  <connections/>
 </ui>
-=======
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <class>MainWindow2</class>
@@ -466,4 +465,3 @@
  <resources/>
  <connections/>
 </ui>
->>>>>>> 14dd7a7d363abd73c3382bddcb4bbae63a207333
